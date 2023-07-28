@@ -1,0 +1,13 @@
+.user_dashboard h1,
+.user_dashboard h2,
+.user_dashboard h3,
+.user_dashboard h4,
+.user_dashboard h5,
+.user_dashboard h6,
+.user_dashboard span,
+.user_dashboard p,
+.user_dashboard li,
+.user_dashboard a {
+    font-family: 'Montserrat', sans-serif;
+}
+
